@@ -36,11 +36,10 @@ The system is *instrumented* with:
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 ---
-## model graph
-<img width="1255" height="1311" alt="WhatsApp Image 2026-10-22 at 2 45 41 PM" src="https://github.com/user-attachments/assets/27e78d66-5357-4e53-8bd1-e7c35d182275" />
 
 
-## tabulation:
+
+## tabulation and Model graph:
 <img width="899" height="1599" alt="OCN3 TABU" src="https://github.com/user-attachments/assets/9d50e0b0-2de9-43df-a121-5ad6749f120a" />
 
 
